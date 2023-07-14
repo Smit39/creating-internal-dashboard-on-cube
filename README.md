@@ -7,7 +7,7 @@ Before we begin, make sure you have the following:
 
 1. DronaHQ account: [Sign up for a DronaHQ account]( https://www.dronahq.com/signup/?utm_source=github&utm_medium=cubejs&utm_campaign=smit) if you haven’t already.
 
-2. Cube account: [Create a Cube account]( https://www.dronahq.com/signup/?utm_source=github&utm_medium=cubejs&utm_campaign=smit) to access its cloud facility.
+2. Cube account: [Create a Cube account](https://cube.dev/) to access its cloud facility.
 
 3. Sample PostgreSQL data: We will use sample PostgreSQL data for this tutorial. Cube supports a wide range of databases, so you can choose the one you are comfortable with.
 
